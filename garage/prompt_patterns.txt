@@ -1,0 +1,10 @@
+Teach me all 8 key prompt engineering patterns.
+For each, provide:
+- "Name"
+- "Simple explanation"
+- "Real-world use case"
+- "Example prompt"
+- "Recommendations"
+
+❗ Only include text — no visuals yet.
+After all 8 are done, provide a visual summarizing all the 8 patterns. 
