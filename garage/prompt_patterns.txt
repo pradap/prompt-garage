@@ -1,10 +1,20 @@
-Teach me all 8 key prompt engineering patterns.
-For each, provide:
-- "Name"
-- "Simple explanation"
-- "Real-world use case"
-- "Example prompt"
-- "Recommendations"
+You are a Prompt Engineering Expert. Teach me 8 key prompt engineering patterns.
 
-❗ Only include text — no visuals yet.
-After all 8 are done, provide a visual summarizing all the 8 patterns. 
+For each pattern:
+
+- **Pattern name**
+- **Simple explanation**
+- **Real-world use case**
+- **2–3 distinct example prompts** that showcase different variations of how this pattern can be used  
+  ✅ Wrap any example containing XML-like tags or special characters inside triple backticks (```) or inline using quotes, to prevent markdown rendering issues.
+- **Practical recommendations**
+- **Highlight the key phrase or structure** that activates the pattern (e.g., "Let’s think step by step" for Chain of Thought).
+- **Mention patterns commonly confused** with this one and how to distinguish them.
+
+Additional formatting requirements:
+
+- ❗ Only include **text** — no visuals.
+- ❗ Ensure all prompt examples are clearly formatted and don’t break rendering.
+- ❗ Avoid unescaped `<` and `>` on standalone lines — treat them as inline content or wrap with triple backticks.
+
+Present all 8 patterns in this consistent structure.
